@@ -7,10 +7,11 @@
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
      <br>
+     hello everyone
       
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/kevinjycui/kevinjycui">kevinjycui</a>
+    From fb97cf8
   </p>
 </samp>
